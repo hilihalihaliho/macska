@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cigany0 {
+    padding: 0 !important;
+    margin: 0 !important;
+    height: 80px;
+}
+
+.cigany {
+    height: 60px !important;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin: 0 !important;
+    transition: background-color 0.3s ease;
+}
+
+.cigany:hover {
+    background-color: rgb(224, 202, 0);
+}
+
+.cigany {
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+}
+
+.cigany:link {
+    color: black;
+}
+
+.cigany4 {
+    width: 1000px;
+}
+
+.cigany6👨🏽 {
+    width: 100%;
+    height: 600px;
+}
+
+.cigany6👨🏽 img {
+    height: 600px;
+}
+
+.cigany7 {
+    padding: 0;
+    margin: 0;
+}
+
+.cigany8 img {
+    height: 40px;
+    width: 40px;   
+}
+
+.cigany9 {
+    background-color: rgb(255, 112, 112);
+    padding: 0 !important;
+    margin: 0 !important;
+    z-index: 10 !important;
+    max-width: none !important;
+}
+
+.cigany10 {
+    margin: 0 0 2px 0 !important;
+    width: 100% !important;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 100%;
+}
+
+/* Show the dropdown when hovering the parent <li> */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.cigany-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 80%; /* Adjust the width of the container */
+  margin: 100px auto 100px auto; /* Center the container horizontally */
+}
+
+.cigany-section {
+  flex: 1; /* Ensures each section takes equal space */
+  margin: 0 70px; /* Adds space between sections */
+  text-align: center;
+}
+
+.cigany-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.cigany-image {
+  width: 20%; /* Adjust the image size as needed */
+  max-width: 200px; /* Optional: limit max width */
+  height: auto;
+  margin-bottom: 15px; /* Adds space between image and text */
+}
+
+.cigany-text {
+  font-size: 1rem;
+  color: #555;
+  margin: 0;
+}
+  
+.cigany-carousel-container {
+  position: relative; /* This will allow the text to be positioned relative to this container */
+}
+
+.cigany-carousel-text {
+  position: absolute; /* Absolute positioning to place the text above the carousel */
+  top: 200px; /* Adjust the distance between the top of the container and the text */
+  left: 50%;
+  transform: translateX(-50%); /* Centers the text horizontally */
+  text-align: center; /* Centers the text within the container */
+  z-index: 10; /* Ensures the text is on top of the carousel */
+  color: #fff; /* Adjust text color as needed for contrast */
+  font-weight: 800;
+}
+
+.cigany11 {
+    font-weight: 1100;
+}
+  
